@@ -1,6 +1,6 @@
 import random
 import string
-lenth = int(input("Enter the length of the password: "))
+length = int(input("Enter the length of the password: "))
 leters=int(input("Enter the number of leters: "))
 numbers=int(input("Enter the number of numbers: "))
 symbols=int(input("Enter the number of symbols: "))
